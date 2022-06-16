@@ -1,3 +1,6 @@
+
+![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)
+
 # Sorting Algorithm Benchmarking Demo
 
 Una pequeña visualicación de sorting algorithims.
@@ -26,3 +29,7 @@ Algoritmo | Promedio de time complexity | Peor caso en time complexity  | Peor S
 Native (Quicksort) | O(n·log(n)) | O(n^2) | O(log(n)) | en practica / en promedio es bastante rapido
 Merge Sort | O(n·log(n)) | O(n·log(n)) | O(n) | El peor caso es mejor q Quicksort
 Bubble | O(n^2) | O(n^2) | O(1) | Simple, pero un time complexity terrible
+
+### Pledu
+
+Hacé [_click_ acá] (https://pledu.plataforma5.la/bootcamp/03---sorting/objetivos-21aa832d) para acceder al módulo correspondiente en Pledu.
