@@ -32,4 +32,4 @@ Bubble | O(n^2) | O(n^2) | O(1) | Simple, pero un time complexity terrible
 
 ### Pledu
 
-Hacé [_click_ acá] [(https://pledu.plataforma5.la/bootcamp/03---sorting/objetivos-21aa832d)] para acceder al módulo correspondiente en Pledu.
+Hacé [_click_ acá](https://pledu.plataforma5.la/bootcamp/03---sorting/objetivos-21aa832d) para acceder al módulo correspondiente en Pledu.
