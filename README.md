@@ -14,7 +14,7 @@ npm start # abre browser/index.html en tu browser
 
 ## Setup
 
-**No estamos incluyendo las implementaciones** para bubble y merge sort en esto. Si corrés el benchmarking asi como esta, los tres algoritmos son solamente los native sort. 
+**No estamos incluyendo las implementaciones** para bubble y merge sort en esto. Si corrés el benchmarking así como está, los tres algoritmos son solamente los native sort. 
 
 Abrir `browser > js > sorts.js` y reemplaza `bubbleSort` y `mergeSort` con tu propia implementación. Ahora refrescá la página de benchmarking.
 
