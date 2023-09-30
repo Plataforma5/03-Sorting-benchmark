@@ -1,5 +1,5 @@
 
-![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)
+![logop5](https://i.imgur.com/Ub5CYpa.jpg)
 
 # Sorting Algorithm Benchmarking Demo
 
